@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Gif
 
 Aplicacion buscador de gifs en react
